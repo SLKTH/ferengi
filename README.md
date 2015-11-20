@@ -5,7 +5,7 @@ I have used a website from Stephan Jacob for this program. Thanks Stephan!
 His website is: http://www.sjtrek.com
 
 No copyright infringment is intended. I have used BeautifulSoup to interpret all the rules and parse one out.
-So Internet is needed. On request and when I have permission I maybe import his text instead of using BeautifulSoup.
+So Internet is needed. On request and when I have permission I maybe will import his text instead of using BeautifulSoup.
 
 However this program was also intended as a exercise to using dictionaries and BeautifulSoup. 
 
