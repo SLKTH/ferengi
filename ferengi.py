@@ -11,9 +11,6 @@ import sys
 # I generate this content from his website: www.sjtrek.com
 # Please show your support and take a look ;-)
 
-
-    
-
 # The URL
 url = 'http://www.sjtrek.com/trek/rules/'
 
